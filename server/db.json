@@ -1,0 +1,22 @@
+{
+  "shoppinglists": [
+    {
+      "title": "New Shopping Liss",
+      "items": [],
+      "id": 1,
+      "color": "#b02f33"
+    },
+    {
+      "title": "New Shopping List",
+      "items": [],
+      "id": 2,
+      "color": "#e79ae5"
+    },
+    {
+      "title": "New Shopping Lis",
+      "items": [],
+      "id": 3,
+      "color": "#6e74dc"
+    }
+  ]
+}
